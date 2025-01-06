@@ -50,16 +50,15 @@ function Signup() {
         <div className="flex flex-col overflow-hidden bg-white rounded-md shadow-lg max md:flex-row md:flex-1 lg:max-w-screen-md">
           <div className="p-4 py-6 text-white bg-blue-500 md:w-80 md:flex-shrink-0 md:flex md:flex-col md:items-center md:justify-evenly">
             <div className="my-3 text-4xl font-bold tracking-wider text-center">
-              <a href="#">K-WD</a>
+              <a href="#">Connect with you friend</a>
             </div>
             <p className="mt-6 font-normal text-center text-gray-300 md:mt-0">
-              With the power of K-WD, you can now focus only on functionaries
-              for your digital products, while leaving the UI design on us!
+            Rekindle the bonds that matter most, no matter where life takes you. Stay connected with your friends, anytime, anywhere!
             </p>
             <p className="flex flex-col items-center justify-center mt-10 text-center">
-              <span>Don't have an account?</span>
+              <span>Already have an account?</span>
               <a href="#" className="underline">
-                Get Started!
+               Login
               </a>
             </p>
             <p className="mt-6 text-sm text-center text-gray-300">
